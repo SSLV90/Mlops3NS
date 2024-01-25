@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/210837248927196058
+creation_time: 1703529635269
+experiment_id: '210837248927196058'
+last_update_time: 1703529635269
+lifecycle_stage: active
+name: train_model
